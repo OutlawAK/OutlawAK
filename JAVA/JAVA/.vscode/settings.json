@@ -1,0 +1,7 @@
+{
+    "java.codeGeneration.generateComments": true,
+    "java.codeGeneration.toString.codeStyle": "STRING_BUILDER",
+    "java.project.sourcePaths": [
+        "src"
+    ]
+}
