@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "analytics_pipeline",
+			"path": "..\\Pipeline\\analytics_pipeline"
+		}
+	],
+	"settings": {}
+}
