@@ -69,8 +69,10 @@ print('1MB is equal to {:,.2f} Bytes'.format(1000**2))
 # this specified the comma seperator for the numeric and 2 decimal places.
 
 
+
 # dir function shows all ther functions related to the variable.
 # print(dir(message))
 # help fucntion shows all functions related to the variable in very detailed order.
 # print(help(int))
 # print(help(str.lower()))
+
