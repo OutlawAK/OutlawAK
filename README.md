@@ -1,3 +1,3 @@
-# Greeting Fellow Geeks:waving_hand_medium_light_skin_tone:,
+# Greeting Fellow Geeks 👋,
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OutlawAK&hide=shell,powershell&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![OutlawAK's GitHub stats](https://github-readme-stats.vercel.app/api?username=OutlawAK&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![OutlawAK's GitHub stats](https://github-readme-stats.vercel.app/api?username=OutlawAK&show_icons=true&theme=vision-friendly-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
