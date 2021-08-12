@@ -1,3 +1,3 @@
 # Greeting Fellow Geeks 👋,
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OutlawAK&hide=shell,powershell,xonsh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OutlawAK&hide=powershell,xonsh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 [![OutlawAK's GitHub stats](https://github-readme-stats.vercel.app/api?username=OutlawAK&show_icons=true&theme=vision-friendly-dark&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
