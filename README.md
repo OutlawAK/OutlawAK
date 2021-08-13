@@ -29,4 +29,4 @@ I am an Enthusiastic Self Learnt **Coder🖥️** Pursuing Bachelor of Engineeri
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OutlawAK&layout=compact&langs_count=10&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![OutlawAK's GitHub stats](https://github-readme-stats.vercel.app/api?username=OutlawAK&show_icons=true&theme=chartreuse-dark&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![OutlawAK's GitHub stats](https://github-readme-stats.vercel.app/api?username=OutlawAK&show_icons=true&theme=chartreuse-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
