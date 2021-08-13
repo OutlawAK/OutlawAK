@@ -12,7 +12,6 @@ I am an Enthusiastic Self Learnt **Coder🖥️** Pursuing Bachelor of Engineeri
 🤙 Feel Free To Contact Me.
 
 ![Image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)[Animesh Kansotia](https://www.linkedin.com/in/animesh-kansotia-6b4478142/)
-
 ![Image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)@OUTLAWAK47#9339
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OutlawAK&hide=powershell,xonsh&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
