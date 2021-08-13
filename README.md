@@ -11,7 +11,7 @@ I am an Enthusiastic Self Learnt **Coder🖥️** Pursuing Bachelor of Engineeri
 
 🤙 Feel Free To Contact Me.
 
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white[linkedIN](https://www.linkedin.com/in/animesh-kansotia-6b4478142/)
+![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/animesh-kansotia-6b4478142/)
 
 [
 
