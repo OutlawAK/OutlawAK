@@ -8,7 +8,7 @@ I am an Enthusiastic Self Learnt **Coder🖥️** Pursuing Bachelor of Engineeri
 
 
 ❓ What defines me other than being a Coder ? ❓  
-🤞 Including but not limited to being a _Music Producer, Guitarist, Swimmer._ ✌️  
+🤞 Including but not limited to being a _Music Producer, Guitarist, Swimmer._ ✌️ 
 
 
 ✔️ Open to Working on new Projects and Technologies in/other than my domain ✔️
