@@ -16,7 +16,7 @@ I am an Enthusiastic Self Learnt **Coder🖥️** Pursuing Bachelor of Engineeri
 
 🤙 Feel Free To Contact Me 📫
 
-![Image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)animeshkansotia@gmail.com or 18bit007@ietdavv.edu.in
+![Image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)animeshkansotia@gmail.com Or 18bit007@ietdavv.edu.in
 
 ![Image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)[Animesh Kansotia](https://www.linkedin.com/in/animesh-kansotia-6b4478142/)
 
@@ -28,5 +28,5 @@ I am an Enthusiastic Self Learnt **Coder🖥️** Pursuing Bachelor of Engineeri
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OutlawAK&layout=compact&langs_count=10&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-[![OutlawAK's GitHub stats](https://github-readme-stats.vercel.app/api?username=OutlawAK&show_icons=true&theme=cobalt&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OutlawAK&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![OutlawAK's GitHub stats](https://github-readme-stats.vercel.app/api?username=OutlawAK&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
