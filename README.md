@@ -16,15 +16,15 @@ I am an Enthusiastic Self Learnt **Coder🖥️** Pursuing Bachelor of Engineeri
 
 🤙 Feel Free To Contact Me 📫
 
-![Image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)animeshkansotia@gmail.com Or 18bit007@ietdavv.edu.in
+![Image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  animeshkansotia@gmail.com Or 18bit007@ietdavv.edu.in
 
-![Image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)[Animesh Kansotia](https://www.linkedin.com/in/animesh-kansotia-6b4478142/)
+![Image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)  [Animesh Kansotia](https://www.linkedin.com/in/animesh-kansotia-6b4478142/)
 
-![Image](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)[@animeshkansotia](https://www.hackerrank.com/animeshkansotia)
+![Image](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)  [@animeshkansotia](https://www.hackerrank.com/animeshkansotia)
 
-![Image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)@OUTLAWAK47#9339
+![Image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)  @OUTLAWAK47#9339
 
-![Image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)[@outlaw_i_](https://www.instagram.com/outlaw_i_/)
+![Image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)  [@outlaw_i_](https://www.instagram.com/outlaw_i_/)
 
 
 
